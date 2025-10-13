@@ -43,3 +43,10 @@ This Excel-based dashboard provides a clear, interactive view of sales performan
 📁 File Contents
 - Coffee Shop Sales 1.xlsx: Contains raw data and dashboard visuals
 
+🧑‍💻 Author
+
+Indrayani Bhagat
+
+📍 Pune, India
+
+🔗 LinkedIn Profile - https://www.linkedin.com/in/indrrayani-bhagat-056b24354
